@@ -81,7 +81,7 @@ Total revenue (approx): 552,200
 
 ## What I learned building this
 
-- Using `pandas` for real-world data cleaning (not just tutorials)
+- Using `pandas` for real-world data cleaning 
 - Handling missing data with group-based logic instead of blanket fixes
 - Structuring a Python script into clear, reusable functions
 - Writing a project others can actually clone and run
