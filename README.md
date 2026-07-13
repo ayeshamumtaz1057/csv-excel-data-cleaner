@@ -16,6 +16,7 @@ never clean. Common issues include:
 This script automates the cleanup process instead of doing it manually
 in Excel, and produces a short report summarizing the results.
 
+
 ## Features
 
 - Loads data from `.csv` or `.xlsx` files
