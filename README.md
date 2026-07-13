@@ -2,7 +2,7 @@
 
 A Python tool that automatically cleans messy CSV/Excel data and generates
 a quick summary report — a task that comes up constantly in real business
-and data analysis workflows.
+and data analysis workflows
 
 ## Problem it solves
 
